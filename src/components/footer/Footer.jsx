@@ -14,7 +14,7 @@ const Footer = () => {
                 <li><a href="#contact">Contact</a></li>
             </ul>
             <div className='footer__socials'>
-                <a href="https://facebook.com"><AiFillInstagram className='insta' /></a>
+                <a href="https://www.instagram.com/karthick_45_/"><AiFillInstagram className='insta' /></a>
             </div>
         </footer>
     )
