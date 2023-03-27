@@ -1,4 +1,9 @@
 Karthick's Portfolio
+
+
+
+
+
 Welcome to my React portfolio! This project showcases my web development skills, particularly my proficiency with React.
 
 Getting Started
